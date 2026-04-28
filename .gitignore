@@ -4,10 +4,16 @@ __pycache__/
 
 database/
 models/
+reports/
 
 *.db
 *.pkl
 *.log
+*.csv
+
+dataset/
+
+*.whl
 
 .ipynb_checkpoints/
 .env
