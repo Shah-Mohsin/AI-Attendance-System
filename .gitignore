@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+database/
+models/
+
+*.db
+*.pkl
+*.log
+
+.ipynb_checkpoints/
+.env
